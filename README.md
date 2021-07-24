@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋,  my name is Víctor
+#### Frontend Developeor
+![Frontend Developeor](<iframe src="https://giphy.com/embed/nUg011pWqiUReijzrH" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/future-code-coding-nUg011pWqiUReijzrH">via GIPHY</a></p>)
 
-<!--
-**oliveravictor/oliveravictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World! my name is Victor, I am a frontend web developer. Months ago I started learning about JavaScript, HTML, and CSS. I also have knowledge of other tools such as photoshop, wodpress, bootstrap and sass. Now i'm doing projects. What I don't know I learn.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS / JS / REACT / FIREBASE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
